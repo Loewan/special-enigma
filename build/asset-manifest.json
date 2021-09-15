@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/special-enigma/static/css/main.4e758486.chunk.css",
+    "main.js": "/special-enigma/static/js/main.cf1e3a2e.chunk.js",
+    "main.js.map": "/special-enigma/static/js/main.cf1e3a2e.chunk.js.map",
+    "runtime-main.js": "/special-enigma/static/js/runtime-main.dfa80146.js",
+    "runtime-main.js.map": "/special-enigma/static/js/runtime-main.dfa80146.js.map",
+    "static/js/2.17b41baf.chunk.js": "/special-enigma/static/js/2.17b41baf.chunk.js",
+    "static/js/2.17b41baf.chunk.js.map": "/special-enigma/static/js/2.17b41baf.chunk.js.map",
+    "static/js/3.16b03a51.chunk.js": "/special-enigma/static/js/3.16b03a51.chunk.js",
+    "static/js/3.16b03a51.chunk.js.map": "/special-enigma/static/js/3.16b03a51.chunk.js.map",
+    "index.html": "/special-enigma/index.html",
+    "static/css/main.4e758486.chunk.css.map": "/special-enigma/static/css/main.4e758486.chunk.css.map",
+    "static/js/2.17b41baf.chunk.js.LICENSE.txt": "/special-enigma/static/js/2.17b41baf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfa80146.js",
+    "static/js/2.17b41baf.chunk.js",
+    "static/css/main.4e758486.chunk.css",
+    "static/js/main.cf1e3a2e.chunk.js"
+  ]
+}
